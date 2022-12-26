@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    cursor:-moz-zoom-in;
+}
+body{
+    background-color: #F5F9FC;
+}
+section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    margin: 0 10rem;
+    font-weight: 700;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding-left: 2rem;
+}
+
+div{
+    display: flex;
+    align-items: center;          
+}
+p{
+    margin-left: 1rem;
+}
+.letraP{
+    background-color: #5E5FF5;
+    color: white;
+    border-radius: 8px;
+    padding: 0.7rem;
+}
